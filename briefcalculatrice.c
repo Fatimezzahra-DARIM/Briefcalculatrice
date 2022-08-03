@@ -22,9 +22,8 @@ case '/': if(N2!=0)
 else{
 printf("impossible");}
     break;
-else { 
-    case
-}    
+case 'q':
+printf("l'opération arreter !!");   
 default:
 printf("operation non reconnu");
     break;
