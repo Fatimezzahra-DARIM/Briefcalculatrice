@@ -1,4 +1,4 @@
-#Création d'une Calculatrice:  
+# Création d'une Calculatrice:  
 Ce projet a pour but de découvrir l'algorithme et la programmation en C utilisant la logique.  
 **Objectif : **  
 
